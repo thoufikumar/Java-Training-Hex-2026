@@ -1,0 +1,5 @@
+AI Usage Declaration
+
+I used AI as an assistance tool to convert my ER diagram and database design into a structured schema. Since the project document contains 20+ tables, manually formatting everything in a Word document would have been time-consuming. I provided the schema design, workflow, and constraints defined by me, and used AI to generate the corresponding table structures. I then transferred the output to Notion(documentation tool) and exported it as a PDF.
+
+The database design, relationships, workflow, and constraints are my own. AI was used only to assist with structuring and documentation. Due to the direct export from Notion, some tables may split across two pages. This is purely a formatting issue.
